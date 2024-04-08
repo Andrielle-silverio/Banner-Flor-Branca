@@ -5,4 +5,4 @@ Animação de banner marca Flor Branca
 - HTML
 - CSS
 - Java Scrip
-- Gsap
+  - Gsap
